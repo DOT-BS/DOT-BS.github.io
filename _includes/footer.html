@@ -7,7 +7,7 @@
 >
   <p>
     {{- '©' }}
-    <time>2024</time>
+    <time>{{ 'now' | date: '%Y' }}</time>
 
     {% if site.social.links %}
       <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
