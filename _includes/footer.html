@@ -1,5 +1,3 @@
-<!-- The Footer -->
-
 <footer
   aria-label="Site Info"
   class="
@@ -23,11 +21,8 @@
         data-bs-placement="top"
         title="{{ site.data.locales[include.lang].copyright.verbose }}"
       >
-        target="_blank"
-        rel="noopener"
-      >Chirpy</a>
-    {%- endcapture -%}
-
-    {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
+        {{- site.data.locales[include.lang].copyright.brief -}}
+      </span>
+    {% endif %}
   </p>
 </footer>
