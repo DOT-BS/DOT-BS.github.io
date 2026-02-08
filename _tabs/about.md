@@ -17,10 +17,10 @@ Security is often treated as a technical problem, but it is fundamentally a huma
 
 ## 📜 Qualifications & Certifications
 
-* **B.Sc. Pure and Applied Psychology** | [Adekunle Ajasin University]([https://www.aaua.edu.ng/](https://www.aaua.edu.ng/department/psychology)
-* **CompTIA Security+** | [Verify via CompTIA]([https://www.certmetrics.com/comptia/public/verification.aspx](https://www.credly.com/badges/29df99cc-6fe0-4002-a472-563ba1bae9f0/public_url)) 
-* **Google Cybersecurity Certificate** | [Verify via Coursera]([https://www.coursera.org/verify/professional-cert/YOUR_ID_HERE](https://www.credly.com/badges/211507ca-c0e4-4e36-bb22-42fddc7e2d85/public_url))
-* **ISO 27001 Lead Auditor** | [Certificate Validation Portal](https://www.pecb.com/en/verify-certificate)
+* **B.Sc. Pure and Applied Psychology** |[Aaua](https://www.aaua.edu.ng/department/psychology)
+* **CompTIA Security+** | [CompTIA](https://www.certmetrics.com/comptia/public/verification.aspx](https://www.credly.com/badges/29df99cc-6fe0-4002-a472-563ba1bae9f0/public_url))
+* **Google Cybersecurity Certificate**| [Coursera]([https://www.coursera.org/verify/professional-cert/YOUR_ID_HERE](https://www.credly.com/badges/211507ca-c0e4-4e36-bb22-42fddc7e2d85/public_url))
+* **ISO 27001 Lead Auditor**| [Certificate Validation Portal](https://www.pecb.com/en/verify-certificate)
 
 ## 🎤 Future Outlook
 I am currently preparing to share my insights on the conference circuit. I believe that by understanding human behavior, we can better protect business goals and drive sustainable value. 
