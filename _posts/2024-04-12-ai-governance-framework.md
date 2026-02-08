@@ -3,7 +3,6 @@ title: "Governance by Design: A Behavioral Approach to AI Risk"
 date: 2024-04-12 8:00:00 -0500
 categories: [Governance, AI]
 tags: [ai governance, behavioral science, risk assessment]
-pin: true
 ---
 
 # Redefining AI Oversight
