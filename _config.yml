@@ -226,3 +226,7 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+    ui:
+  last_modified:
+    enabled: false
