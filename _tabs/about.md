@@ -1,31 +1,38 @@
 ---
 layout: page
 title: About
-icon: fas fa-info-circle
-order: 1
+permalink: /about/
 ---
 
-# David Olowokere: Human-Centric GRC Leader
+# David Olowokere
+## Designing Governance for How People Actually Behave
 
-I am a GRC professional dedicated to challenging how we think about security. By exploring the intersection of **human behavior**, **mental processes**, and **business value**, I help organizations move beyond "checkbox compliance" toward true resilience.
+I work at the intersection of **governance, risk, and human behavior**. My focus is not on enforcing compliance, but on understanding why security controls fail in the first place and how they can be redesigned to work with, rather than against, human cognition.
 
-## 📜 Qualifications & Certifications
-
-| Credential | Verification |
-| :--- | :--- |
-| **B.Sc. Pure and Applied Psychology** | [Adekunle Ajasin University](https://www.aaua.edu.ng/) |
-| **CompTIA Security+** | [Verify via Credly](https://www.credly.com/...) |
-| **Google Cybersecurity Professional** | [Verify via Credly](https://www.credly.com/...) |
-| **ISO 27001 Lead Auditor** | [Verify Certificate](https://www.pecb.com/...) |
-
-## 🧠 The Behavioral Edge
-Security is fundamentally a human problem. I apply behavioral science principles to:
-* **Risk Culture:** Understanding the *why* behind non-compliance to build better workflows.
-* **Control Design:** Creating "low-friction" security controls that align with human cognition.
-* **AI Governance:** Navigating the ethical and behavioral risks of human-AI interaction.
-
-## 🎤 Future Outlook
-I am currently preparing to share my insights on the conference circuit. I believe that by understanding human behavior, we can better protect business goals and drive sustainable value. 
+My background in **Pure and Applied Psychology** shapes how I approach GRC. I look beyond policies and frameworks to examine mental shortcuts, cognitive load, incentives, and social dynamics that influence real-world risk decisions. The result is governance that protects business value without slowing the organization down.
 
 ---
-*I'm here to explore how our mental processes affect the digital world. Let's challenge the status quo.*
+
+### The Behavioral Edge
+I apply behavioral science to practical governance challenges, including:
+
+* **Risk Culture:** Understanding the motivations behind non-compliance to design systems people actually use.
+* **Control Design:** Reducing friction so secure behavior becomes the default, not the exception.
+* **AI Governance:** Addressing the behavioral and ethical risks introduced when humans interact with intelligent systems.
+
+---
+
+### Background & Credentials
+* **B.Sc. Pure and Applied Psychology**, Adekunle Ajasin University
+* **ISO 27001 Lead Auditor**
+* **CompTIA Security+**
+* **Google Cybersecurity Professional Certificate**
+
+Outside of formal work, I spend time reading across psychology, strategy, and systems design, often exploring how small design decisions create large organizational consequences. That curiosity is what drives this space.
+
+---
+
+### Looking Ahead
+I’m preparing to share these ideas more broadly through writing and speaking, with a focus on helping organizations move beyond checkbox compliance toward measurable, sustainable resilience.
+
+This space exists to question assumptions, explore how people actually behave, and rethink how governance should be designed.
