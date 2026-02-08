@@ -9,3 +9,9 @@
 ';
 
 /* append your custom style below */
+/* Hide the 'Last Updated' timestamp but keep the 'Published' date */
+.post-meta .last-modified-at, 
+.post-meta span:has(> i.fa-sync-alt),
+.post-meta i.fa-sync-alt {
+    display: none !important;
+}
