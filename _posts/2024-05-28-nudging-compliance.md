@@ -1,6 +1,6 @@
 ---
 title: "Nudging Compliance: Designing Low-Friction Controls That Preserve Business Speed"
-date: 2024-04-14 10:00:00 -0500
+date: 2024-05-28 10:00:00 -0500
 categories: [Governance, Behavioral Science]
 tags: [Nudge Theory, Compliance, Risk Management]
 pin: true
@@ -29,3 +29,5 @@ Humans are social creatures. Displaying metrics like *"95% of your department is
 
 ## The Goal: 50% Reduction in Ungoverned Use
 By applying low-friction controls, organizations achieve sustained, visible, low-risk behavior at business speed. The goal is not obedience, but reliability. In environments with high friction and low trust, we have observed reductions of up to 50% in ungoverned tool usage simply by making the right choice the easiest choice.
+
+What’s next?** My next post will tackle **From Checkbox to Change**, focusing on how to measure these behavioral shifts to show real value to the Board.
