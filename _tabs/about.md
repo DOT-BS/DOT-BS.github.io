@@ -12,7 +12,7 @@ I am a GRC professional dedicated to challenging how we think about security. By
 ## 📜 Qualifications & Certifications
 
 * **B.Sc. Pure and Applied Psychology** | [Adekunle Ajasin University](https://www.aaua.edu.ng/department/psychology)
-* **CompTIA Security+** | [Verify Badge via Credly](https://www.credly.com/badges/29df99cc-6fe0-4002-a472-563ba1bae9f0/public_url)
+* **CompTIA Security+**                 | [Verify Badge via Credly](https://www.credly.com/badges/29df99cc-6fe0-4002-a472-563ba1bae9f0/public_url)
 * **Google Cybersecurity Professional** | [Verify Badge via Credly](https://www.credly.com/badges/211507ca-c0e4-4e36-bb22-42fddc7e2d85/public_url)
 
 
