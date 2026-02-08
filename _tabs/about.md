@@ -16,7 +16,7 @@ Security is often treated as a technical problem, but it is fundamentally a huma
 * **AI Governance:** Navigating the ethical and behavioral risks of human-AI interaction.
 
 ## 📜 Qualifications & Certifications
-* **B.Sc. Pure and Applied Psychology**
+* B.Sc. Pure and Applied Psychology**
 * Comptia Security+ Certified
 * Google Cybersecurity Certified
 * ISO 27001 Lead Auditor
