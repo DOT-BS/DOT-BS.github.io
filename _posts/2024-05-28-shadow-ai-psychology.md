@@ -1,6 +1,6 @@
 ---
 title: "The Psychology of Shadow AI: Why Employees Bypass Controls"
-date: 2024-04-14 09:00:00 -0500
+date: 2024-05-28 09:00:00 -0500
 categories: [Behavioral Science, AI Governance]
 tags: [Risk Culture, Shadow AI, Cognitive Load, Psychology]
 ---
