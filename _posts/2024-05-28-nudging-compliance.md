@@ -3,6 +3,7 @@ title: "Nudging Compliance: Designing Low-Friction Controls That Preserve Busine
 date: 2024-05-28 10:00:00 -0500
 categories: [Governance, Behavioral Science]
 tags: [Nudge Theory, Compliance, Risk Management]
+pin: true
 ---
 
 # From Enforcement to Encouragement
