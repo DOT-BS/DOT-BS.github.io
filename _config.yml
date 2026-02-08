@@ -11,9 +11,7 @@ lang: en
 # Change to your timezone › https://zones.arilyn.cc
 timezone: America/Chicago
 
-ui:
-  last_modified:
-    enabled: false
+show_lastmod: false
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
