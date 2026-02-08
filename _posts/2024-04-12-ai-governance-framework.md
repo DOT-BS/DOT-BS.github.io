@@ -14,9 +14,9 @@ Traditional GRC frameworks often fail to account for "Shadow AI"—where employe
 
 ## My Approach
 By applying **behavioral science**, I developed a framework that:
-* **Reduces Friction:** Creates intuitive checkpoints that align with business velocity.
-* **Standardizes Policy:** Establishes clear guardrails for LLM usage and data privacy.
-* **Measured Impact:** Focuses on reducing ungoverned use cases by 50% through psychological nudges rather than rigid blocks.
+* **Design:** Reduces Friction: This creates intuitive checkpoints that align with business velocity.
+* **Feedback** Standardizes Policy: This establishes clear guardrails for LLM usage and data privacy.
+* **Culture** Measured Impact: This focuses on reducing ungoverned use cases by 50% through psychological nudges rather than rigid blocks.
 
 > "Governance should not be a barrier; it should be the map that allows the business to go faster safely."
 
