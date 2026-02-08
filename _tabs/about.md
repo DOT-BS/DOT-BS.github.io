@@ -17,8 +17,9 @@ Security is often treated as a technical problem, but it is fundamentally a huma
 
 ## 📜 Qualifications & Certifications
 * **B.Sc. Pure and Applied Psychology**
-* [Insert Cert 1, e.g., CISA / Security+]
-* [Insert Cert 2, e.g., ISO 27001 Lead Auditor]
+* Comptia Security+ Certified
+* Google Cybersecurity Certified
+* ISO 27001 Lead Auditor
 
 ## 🎤 Future Outlook
 I am currently preparing to share my insights on the conference circuit. I believe that by understanding human behavior, we can better protect business goals and drive sustainable value. 
