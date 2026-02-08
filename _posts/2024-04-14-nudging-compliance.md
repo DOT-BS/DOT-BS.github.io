@@ -1,6 +1,6 @@
 ---
 title: "Nudging Compliance: Designing Low-Friction Controls That Preserve Business Speed"
-date: 2024-05-28 10:00:00 -0500
+date: 2024-04-14 10:00:00 -0500
 categories: [Governance, Behavioral Science]
 tags: [Nudge Theory, Compliance, Risk Management]
 ---
