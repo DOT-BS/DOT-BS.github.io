@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # David Olowokere
-![D.O.T Framework](/assets/img/hero2-grc.png.png){: .w-75 .shadow .rounded }
+![D.O.T Framework](/assets/img/hero2-grc.png){: .w-75 .shadow .rounded }
 ## Designing Governance for How People Actually Behave
 
 I work at the intersection of **governance, risk, and human behavior**. My focus is not on enforcing compliance, but on understanding why security controls fail in the first place and how they can be redesigned to work with, rather than against, human cognition.
