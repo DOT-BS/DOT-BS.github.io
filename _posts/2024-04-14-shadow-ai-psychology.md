@@ -1,6 +1,6 @@
 ---
 title: "The Psychology of Shadow AI: Why Employees Bypass Controls"
-date: 2024-05-28 09:00:00 -0500
+date: 2024-04-14 09:00:00 -0500
 categories: [Behavioral Science, AI Governance]
 tags: [Risk Culture, Shadow AI, Cognitive Load, Psychology]
 pin: true
@@ -36,3 +36,6 @@ To protect business value, we must design frameworks that account for mental pro
 
 ## Challenging the Status Quo
 Governance should not be a barrier; it should be the map that allows the business to go faster, safely. By understanding that security is a human behavior, Controls that ignore human behavior will always be bypassed. Controls that account for it scale.
+
+---
+**What’s next?** In my next article, I will dive into **: Nudging Compliance**, exploring how behavioral nudges can reduce ungoverned AI use by 50% without a single disciplinary meeting.
